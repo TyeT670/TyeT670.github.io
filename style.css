@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+.box {
+  height: 400px;
+  width: 800px;
+  border: solid 3px black;
+}
+
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: lightblue;
+}
+
+.trapezoid {
+  border-bottom: 50px solid yellow;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  height: 0;
+  width: 125px;
+}
+
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #B868C6;
+}
